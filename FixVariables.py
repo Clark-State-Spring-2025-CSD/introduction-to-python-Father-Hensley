@@ -11,4 +11,4 @@ theft = 2
 
 remaining = cakes - THEFT
 
-print(f"{thehello}, {theWorld}. There were {10cakes} cakes, but Lex Luthor stole {theft}. Now there's {remaining}. And that's sad.")
+print(f"{the Hello}, {the.World}. There were {cakes} cakes, but Lex Luthor stole {theft}. Now there's {remaining}. And that's sad.")
